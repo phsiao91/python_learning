@@ -1,4 +1,4 @@
-prices = [10, 100, 10]
+prices = [10, 20, 20]
 
 total = 0
 for price in prices:
@@ -9,6 +9,6 @@ for numbers in [20, 30, 50]:
     total = total + numbers
 print(total)
 
-for sum in [10, 100]:
-    total = total + sum
+for totes in [10, 100]:
+    total = total + totes
 print(total)
