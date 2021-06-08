@@ -10,9 +10,11 @@ class Dog(Pets):
 
 class Cat(Pets):
     def scratch(self):
-        print("scartching")
+        print("scratching")
+
     def annoying(self):
         print("is annoying")
+
 
 dog1 = Dog()
 dog1.bark()
